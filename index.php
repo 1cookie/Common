@@ -2,7 +2,7 @@
 
 /**
  * CSV to array
- * @return void
+ * @return array
  */
 function readCSV($file)
 {
