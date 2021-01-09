@@ -4,7 +4,7 @@
  * CSV to array
  * @return array
  */
-function readCSV($file)
+function csvToArray($file)
 {
     $row = 0;
     $records = [];
