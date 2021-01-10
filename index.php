@@ -22,3 +22,5 @@ function csvToArray($file)
         return $records;
     }
 }
+
+// https://stackoverflow.com/questions/28372241/find-min-max-in-a-two-dimensional-array
